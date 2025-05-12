@@ -17,4 +17,5 @@ Always write code that passes all tests.
 Always write code that is free of security vulnerabilities.
 Always write code that is free of performance issues.
 Always write code that is free of memory leaks.
+When generating a commit message, do your best to answer the question, "Why did I make this change?"
 
